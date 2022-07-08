@@ -14,16 +14,20 @@
 - iTerm 2 
 - zsh & bash
 
-## TO DO
+## Development Stages
 
-- TODO: create base application 
-- TODO: create petition migration, seeder and factory
-- TODO: add migration details
-- TODO: add seeder and factory for users and petitions
-- TODO: create migration for petition change category type
-- TODO: create migration for users add timezone
-- TODO: create resourceful api controller 
-- TODO: create api route for petitions
+These steps are those taken in developing the application. As features are revealed, they are added as TODO items. As they 
+are completed, or a step is completed, the TODO is removed.
+
+- create base application 
+- create petition migration, seeder and factory
+- add migration details (user and petition)
+- add seeder and factory for users and petitions
+- create migration for petition change category type
+- create migration for users add timezone
+- create resourceful api controller
+  - TODO: create the API methods
+- create api route for petitions
 - TODO: ...
 - TODO: ...
 - TODO: ...
